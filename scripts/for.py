@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-fruits = ["apple", "banana", "cherry"]
-for x in fruits:
-  print(x)
+fruites = ["apple", "banana", "cherry"]
+for fruita in fruites:
+  print(fruita)
 
-for i in range(0,10,2):
-    print(i)
+for numero in range(10):
+    print(numero)
